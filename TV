@@ -1,9 +1,0 @@
-
-#EXTINF:-1,Pop
-http://31.42.186.60:8080/play/live.php?mac=00:1A:79:5E:BB:7C&stream=111771&extension=ts&play_token=WXhZSllWdmdySklKNmR0aCtsMjd6Zz09
-
-#EXTINF:-1,Tiny Pop
-http://31.42.186.60:8080/play/live.php?mac=00:1A:79:5E:BB:7C&stream=111776&extension=ts&play_token=WXhZSllWdmdySklKNmR0aCtsMjd6Zz09
-
-#EXTINF:-1,Pop Max
-http://31.42.186.60:8080/play/live.php?mac=00:1A:79:5E:BB:7C&stream=7686&extension=ts&play_token=WXhZSllWdmdySklKNmR0aCtsMjd6Zz09
