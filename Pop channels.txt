@@ -1,6 +1,11 @@
-#EXTINF:-1,UK: Pop
-http://sansat.net:25461/fflpCGvY0KOiVTC/4CvuI9cSFE/102191
-#EXTINF:-1,UK: Tiny Pop
-http://sansat.net:25461/fflpCGvY0KOiVTC/4CvuI9cSFE/102476
-#EXTINF:-1,UK: Pop Max
-http://sansat.net:25461/fflpCGvY0KOiVTC/4CvuI9cSFE/102192 
+#EXTINF:-1,AU: 7
+https://npc-live-sevennetwork.akamaized.net/hls/live/MEL1/master.m3u8?hdnts=exp=1631364789~acl=/*~hmac=3b965fac5909471621ed2d572096262379fab94bc61bc16df77617af0c825371
+
+#EXTINF:-1,AU: 7 Two
+https://npc-live-sevennetwork.akamaized.net/hls/live/MEL2/master.m3u8?hdnts=exp=1631364909~acl=/*~hmac=7c72592e9e3570919bc821366e8d761002a00693b334f9927d6cf986e90e1e51
+
+#EXTINF:-1,AU: 7 Mate
+https://npc-live-sevennetwork.akamaized.net/hls/live/MEL3/master.m3u8?hdnts=exp=1631364909~acl=/*~hmac=7c72592e9e3570919bc821366e8d761002a00693b334f9927d6cf986e90e1e51
+
+#EXTINF:-1,AU: 7 flix
+https://npc-live-sevennetwork.akamaized.net/hls/live/MEL6/master.m3u8?hdnts=exp=1631365277~acl=/*~hmac=7b37e90dfee33aa1260968a6ae5fe1e0dbfa9395f49499785d31a8ab7c56b028
