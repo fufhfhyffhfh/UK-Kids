@@ -1,7 +1,10 @@
-#EXTINF:-1,UK: Pop
-http://sansat.net:25461/fflpCGvY0KOiVTC/fsANhuWwvy/102191
-#EXTINF:-1,UK: Tiny Pop
-http://sansat.net:25461/02547644928982/4XSfz4jc9D/102476
-#EXTINF:-1,UK: Pop Max
-http://sansat.net:25461/fflpCGvY0KOiVTC/VLwbm8Pg9L/102192
+#EXTINF:-1,AU: 7
+https://cdnapisec.kaltura.com/p/2974741/sp/2974741/playManifest/entryId/1_yftjms59/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8?playSessionId=26d8f061-87ae-a4ee-e2d7-4844fb849faa:4646343a-def9-9000-9a8f-56242e7fea03&referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20vaW5kZXgucGhwL2V4dHdpZGdldC9wcmV2aWV3L3BhcnRuZXJfaWQvMjk3NDc0MS91aWNvbmZfaWQvNDc5MTI5NDMvZW50cnlfaWQvMV95ZnRqbXM1OS9lbWJlZC9keW5hbWljPw==&clientTag=html5:v1.7.1
+#EXTINF:-1,AU: 7 Two
+https://cdnapisec.kaltura.com/p/2974741/sp/2974741/playManifest/entryId/1_xobt9j2s/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8?playSessionId=933002a4-798b-e06b-86ca-468bb9b4cf6a:b9b78626-5ea3-d175-8525-4b74972f6bbf&referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20vaW5kZXgucGhwL2V4dHdpZGdldC9wcmV2aWV3L3BhcnRuZXJfaWQvMjk3NDc0MS91aWNvbmZfaWQvNDc5MTI5NDMvZW50cnlfaWQvMV94b2J0OWoycy9lbWJlZC9keW5hbWljPw==&clientTag=html5:v1.7.1
+#EXTINF:-1,AU: 7 Mate
+https://cdnapisec.kaltura.com/p/2974741/sp/2974741/playManifest/entryId/1_hfo5kaz0/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8?playSessionId=03c2d053-9b19-2a7e-5c36-612432249cc1:3a36862e-73bd-7ebc-0dc1-fb7b129b2f1c&referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20vaW5kZXgucGhwL2V4dHdpZGdldC9wcmV2aWV3L3BhcnRuZXJfaWQvMjk3NDc0MS91aWNvbmZfaWQvNDc5MTI5NDMvZW50cnlfaWQvMV9oZm81a2F6MC9lbWJlZC9keW5hbWljPw==&clientTag=html5:v1.7.1
+#EXTINF:-1,AU: 7Flix
+https://cdnapisec.kaltura.com/p/2974741/sp/2974741/playManifest/entryId/1_wbl5b3qd/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8?playSessionId=914022d4-a031-07ad-90e3-1d5c0f2f174d:2160e407-2293-f2d5-cc81-8bf7a4c7e409&referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20vaW5kZXgucGhwL2V4dHdpZGdldC9wcmV2aWV3L3BhcnRuZXJfaWQvMjk3NDc0MS91aWNvbmZfaWQvNDc5MTI5NDMvZW50cnlfaWQvMV93Ymw1YjNxZC9lbWJlZC9keW5hbWljPw==&clientTag=html5:v1.7.1
+
 
