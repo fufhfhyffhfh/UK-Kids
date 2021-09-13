@@ -1,6 +1,6 @@
 #EXTINF:-1,UK: Nick Jr.
-http://iptv.jinbox.eu:1339/eT8kRrPwIW/Xx4MHkfDkh/1581
+http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/1581
 #EXTINF:-1,UK: Nick
-http://iptv.jinbox.eu:1339/eT8kRrPwIW/Xx4MHkfDkh/11434
+http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/11434
 #EXTINF:-1,UK: Nicktoons
-http://iptv.jinbox.eu:1339/eT8kRrPwIW/Xx4MHkfDkh/11433
+http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/11433
