@@ -1,10 +1,4 @@
-#EXTINF:-1,AU: SBS HD
-https://sbs-live-dai.akamaized.net/hls/live/2002827/channel1/geo/master.m3u8
-#EXTINF:-1,AU: SBS Viceland
-https://sbs-live-dai.akamaized.net/hls/live/2002828/channel2/geo/master.m3u8
-#EXTINF:-1,AU: SBS Food
-https://sbs-live-dai.akamaized.net/hls/live/2002829/channel3/geo/master.m3u8
-#EXTINF:-1,AU: NITV
-https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master.m3u8
-#EXTINF:-1,AU: SBS World Movies
-https://sbs-live-dai.akamaized.net/hls/live/2005470/channel5/geo/master.m3u8
+#EXTINF:-1,UK: Nick Jr.
+http://iptv.jinbox.eu:1339/eT8kRrPwIW/Xx4MHkfDkh/1581
+#EXTINF:-1,UK: Nick
+http://iptv.jinbox.eu:1339/eT8kRrPwIW/Xx4MHkfDkh/11434
