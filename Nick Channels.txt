@@ -4,4 +4,4 @@ http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/1581
 http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/11434
 #EXTINF:-1,UK: Nicktoons
 http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/11433
-http://alphabetagama.ddns.net/kids2019/tinypop/
+http://51.161.84.66:8080/LB2021_NICK_JR._WEST/embed.html
