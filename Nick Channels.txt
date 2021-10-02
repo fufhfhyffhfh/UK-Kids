@@ -6,3 +6,6 @@ http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110155&extensi
 
 #EXTINF:-1,UK: Cartoonito SD
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110154&extension=ts&play_token=SGNvbDk3OUorcDl2Rjk5THd3dmdEQT09
+
+#EXTINF:-1,UK: Boomerang FHD
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110153&extension=ts&play_token=YUVhZnZiMGdtN0wyeThyUkhUTlRJUT09
