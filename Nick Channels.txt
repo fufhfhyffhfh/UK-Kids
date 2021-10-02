@@ -1,7 +1,2 @@
-#EXTINF:-1,UK: Nick Jr.
-http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/1581
-#EXTINF:-1,UK: Nick
-http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/11434
-#EXTINF:-1,UK: Nicktoons
-http://iptv.jinbox.eu:1339/eT8kRrPwIW/4Huehwr0BQ/11433
-http://51.161.84.66:8080/LB2021_NICK_JR._WEST/embed.html
+#EXTINF:-1,UK: Cartoon Network FHD
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110156&extension=ts&play_token=K1E5bFpwWFl5MDhhWXA5L1NnSnNtdz09
