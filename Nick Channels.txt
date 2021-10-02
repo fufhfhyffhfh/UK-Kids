@@ -27,3 +27,6 @@ http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110144&extensi
 
 #EXTINF:-1,UK: CBBC FHD
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110143&extension=ts&play_token=eFlwVUlnY0FubEFKZTdCd051S21Zdz09
+
+#EXTINF:-1,UK: CBBC SD
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110142&extension=ts&play_token=VlppcTB3WXF5SWk0dmZvMjNnMW1ydz09
