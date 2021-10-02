@@ -9,3 +9,12 @@ http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110154&extensi
 
 #EXTINF:-1,UK: Boomerang FHD
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110153&extension=ts&play_token=YUVhZnZiMGdtN0wyeThyUkhUTlRJUT09
+
+#EXTINF:-1,UK: Nickelodeon SD
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110152&extension=ts&play_token=SXNGODZTZlc1bk9ZWWNpTnB4cGNndz09
+
+#EXTINF:-1,UK: Nickelodeon 1 SD 
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110151&extension=ts&play_token=aktacEcvdUhDSWl6N3gycmlwV0RSZz09
+
+#EXTINF:-1,UK: Nick Jr FHD
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110150&extension=ts&play_token=bm9oeXlySmdjTTBoUFJONjlBU0l3QT09
