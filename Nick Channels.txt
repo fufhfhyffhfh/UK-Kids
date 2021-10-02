@@ -24,3 +24,6 @@ http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110145&extensi
 
 #EXTINF:-1,UK: Baby Tv 
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110144&extension=ts&play_token=YU1HeXFFbE1mY2dXWmZPNHFJQVJSQT09
+
+#EXTINF:-1,UK: CBBC FHD
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110143&extension=ts&play_token=eFlwVUlnY0FubEFKZTdCd051S21Zdz09
