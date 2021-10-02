@@ -19,5 +19,5 @@ http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110151&extensi
 #EXTINF:-1,UK: Nick Jr FHD
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110150&extension=ts&play_token=bm9oeXlySmdjTTBoUFJONjlBU0l3QT09
 
-#EXTINF:-1,UK: Nickttoons
+#EXTINF:-1,UK: Nicktoons
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110145&extension=ts&play_token=Y05yN2F2TnpPeU5haUFtaXkrR0xHdz09
