@@ -1,2 +1,5 @@
 #EXTINF:-1,UK: Cartoon Network FHD
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110156&extension=ts&play_token=K1E5bFpwWFl5MDhhWXA5L1NnSnNtdz09
+
+#EXTINF:-1,UK: Cartoon Network SD 
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110155&extension=ts&play_token=S2ppTndIbEFwY21UUXhHYlhINnRYdz09
