@@ -21,3 +21,6 @@ http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110150&extensi
 
 #EXTINF:-1,UK: Nicktoons
 http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110145&extension=ts&play_token=Y05yN2F2TnpPeU5haUFtaXkrR0xHdz09
+
+#EXTINF:-1,UK: Baby Tv 
+http://main.frresh.art/play/live.php?mac=00:1A:79:7D:49:8C&stream=110144&extension=ts&play_token=YU1HeXFFbE1mY2dXWmZPNHFJQVJSQT09
