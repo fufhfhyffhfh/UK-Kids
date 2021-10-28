@@ -1,35 +1,37 @@
-UK RTE Two SD
+#EXTM3U
+
+#EXTINF:-1,UK RTE Two SD
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=133173&extension=ts&play_token=YndLREMwNTVTYjRmTjFWVERhd2dXQT09
 
-UK RTE one SD
+#EXTINF:-1,UK RTE one SD
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=133172&extension=ts&play_token=VEVSQ1RRSFhaek5POFBwM1h4ZDJEUT09
 
-UK RTE one FHD
+#EXTINF:-1,UK RTE one FHD
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110372&extension=ts&play_token=MFF5SEVjWHRiR0pCaWRoL3F0KzlpUT09
 
-UK RTE Two FHD
+#EXTINF:-1,UK RTE Two FHD
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110371&extension=ts&play_token=cWw3S2RvTUhZb3NhWTRuckNUQm5YUT09
 
-UK Rte Jr
+#EXTINF:-1,UK Rte Jr
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110370&extension=ts&play_token=dmRZaUlaaUJLTEF3K3ZpNVo1K2h5dz09
 
-UK RTE News
+#EXTINF:-1,UK RTE News
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110369&extension=ts&play_token=UWdIbVVYWjFrbTBGZmJVRUFhclVyUT09
 
-UK Virgin One
+#EXTINF:-1,UK Virgin One
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110368&extension=ts&play_token=dyt4dnpySFJqcnFtRnlZK3pBZ0pjUT09
 
-UK Virgin Two
+#EXTINF:-1,UK Virgin Two
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110367&extension=ts&play_token=ZTh2Q3dVVGlNMllWY0lDbDNrTjdHQT09
 
-UK Virgin Three 
+#EXTINF:-1,UK Virgin Three 
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110366&extension=ts&play_token=S3pSdzZUWHJwNnY1Q2pUMnFzaU5mZz09
 
-UK TG4 FHD
+#EXTINF:-1,UK TG4 FHD
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110365&extension=ts&play_token=RlVEK09JSGtiRTU3eitYajM2MzZDUT09
 
-UK Eir Sport 1 
+#EXTINF:-1,UK Eir Sport 1 
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110364&extension=ts&play_token=a0NsYWMwbG0yRXVWL1cweU1xeXBFUT09
 
-UK Eir Sport 2
+#EXTINF:-1,UK Eir Sport 2
 http://main.frresh.art/play/live.php?mac=00:1A:79:83:79:D6&stream=110363&extension=ts&play_token=dGJqNFowNkFuUWM2NTNFeCt5SHpEdz09
